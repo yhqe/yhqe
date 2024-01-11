@@ -1,6 +1,8 @@
-### ian
-c++ & lua
+<img src="https://github.com/yhqe/yhqe/blob/main/crowred.png" align="left"/>
 
-vs + vsc
+### ian
+<img src="https://github.com/yhqe/yhqe/blob/main/codeicon.png"/> c++ & lua
+
+<img src="https://github.com/yhqe/yhqe/blob/main/ideicon.png"/> vs + vsc
 
 https://discord.gg/atn
