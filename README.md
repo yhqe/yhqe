@@ -1,4 +1,4 @@
-<img src="https://github.com/yhqe/yhqe/blob/main/crowred.png" align="left"/>
+<img src="https://github.com/yhqe/yhqe/blob/main/croww.png" align="left"/>
 
 ### ian
 <img src="https://github.com/yhqe/yhqe/blob/main/codeicon.png"/> c++ & lua
