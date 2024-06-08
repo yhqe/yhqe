@@ -5,4 +5,4 @@
 
 <img src="https://github.com/yhqe/yhqe/blob/main/ideicon.png"/> vs + vsc
 
-https://discord.gg/atn
+![](https://dcbadge.limes.pink/api/shield/320002284186763264?style=flat&theme=gray&compact=true&color=red)
